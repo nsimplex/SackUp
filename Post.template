@@ -3,7 +3,7 @@ SackUp is a simple mod that changes how the drop chance for the Krampus Sack wor
 SackUp is free software, licensed under the terms of the GNU GPLv2. The code is hosted at [URL="https://github.com/nsimplex/SackUp"]GitHub[/URL].
 
 [B]Disclaimer[/B]:
-[SPOILER]
+[spoiler]
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
 as published by the Free Software Foundation; either version 2
@@ -13,27 +13,27 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
-[/SPOILER]
+[/spoiler]
 
 [B]Installation[/B]:
-[SPOILER]
+[spoiler]
 Unzip the SackUp folder into your mods directory. Then, enable it through the mod management interface found within the game's main menu.
-[/SPOILER]
+[/spoiler]
 
 [B]Configuration[/B]:
-[SPOILER]
+[spoiler]
 Just edit the file rc.lua in the SackUp folder. Every option's effect is explained in the file. Knowledge of Lua is not required, as the file uses a simple "OPTION = VALUE" format.
 
 @SAMPLECONFIGURATION@
-[/SPOILER]
+[/spoiler]
 
 [B]Known bugs[/B]:
-[SPOILER]
+[spoiler]
 None.
-[/SPOILER]
+[/spoiler]
 
 [B]Changelog[/B]:
-[SPOILER]
+[spoiler]
 [U]Version 2.0[/U] (2013-07-15)
 [LIST]
 [*] Added a mod icon.
@@ -42,5 +42,5 @@ None.
 [LIST]
 [*] Release.
 [/LIST]
-[/SPOILER]
+[/spoiler]
 
