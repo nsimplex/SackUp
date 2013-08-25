@@ -1,7 +1,7 @@
 -----
---[[ SackUp ]] VERSION="2.0"
+--[[ SackUp ]] VERSION="2.1"
 --
--- Last updated: 2013-08-16
+-- Last updated: 2013-08-24
 -----
 
 --[[

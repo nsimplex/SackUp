@@ -1,7 +1,7 @@
 PROJECT:=SackUp
 AUTHOR:=simplex
-VERSION:=2.0
-API_VERSION:=2
+VERSION:=2.1
+API_VERSION:=3
 DESCRIPTION:=Makes the Krampus Sack drop chance start at an initially high value, decaying exponentially with time.
 FORUM_THREAD:=23529-Download-SackUp-(before-it-s-too-late)
 FORUM_DOWNLOAD_ID:=314
